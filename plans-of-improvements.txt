@@ -1,0 +1,4 @@
+1) TypeScript
+2) Functional Components
+3) Redux
+4) Get data from an API
